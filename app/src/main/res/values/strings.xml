@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenCVJavaSDKExample</string>
+    <string name="switch_str">转换</string>
+</resources>
